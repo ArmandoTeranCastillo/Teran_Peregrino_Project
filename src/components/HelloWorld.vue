@@ -7,16 +7,16 @@
     </p>
     <h3>Desarrollado con:</h3>
     <ul>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">Vue JS</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">.NET Core 6</a></li>
+      <li><a href="https://vuejs.org/guide/introduction.html" target="_blank" rel="noopener">Vue JS</a></li>
+      <li><a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank" rel="noopener">.NET Core 6</a></li>
     </ul>
     <h3>Alojado en:</h3>
     <ul>
-      <li><a href="https://vuejs.org" target="_blank" rel="noopener">Azure</a></li>
+      <li><a href="https://azure.microsoft.com/es-mx/" target="_blank" rel="noopener">Microsoft Azure</a></li>
     </ul>
     <h3>Para la empresa:</h3>
     <ul>
-      <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">TERAN PEREGRINO HERMANOS SA de CV</a></li>
+      <li><a href="" target="_blank" rel="noopener">TERAN PEREGRINO HERMANOS SA de CV</a></li>
     </ul>
   </div>
 </template>
