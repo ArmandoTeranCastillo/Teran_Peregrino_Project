@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome"/>
+  <img alt="Vue logo" src="./assets/apple.png">
+  <HelloWorld msg="Bienvenido a AppleWeb"/>
 </template>
 
 <script>
