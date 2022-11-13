@@ -1,3 +1,7 @@
 # Appleweb
+Plataforma web de inventario para maquiladora de manzanas
 
-## Project setup
+##Diseñada con:
+- Vue JS
+- .NET Core 6
+
